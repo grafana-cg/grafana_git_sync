@@ -44,7 +44,7 @@
             "showLineNumbers": false,
             "showMiniMap": false
           },
-          "content": "\u003cdiv style='text-align: center; padding: 10px; background: #003865; border-radius: 8px;'\u003e\n  \u003cimg src='https://lever-client-logos.s3.us-west-2.amazonaws.com/62c95f9e-9790-4a19-b3d2-5279800c162d-1644881340139.png' alt='Coates Group' style='height: 40px; vertical-align: middle;'\u003e\n  \u003cspan style='font-size: 24px; margin-left: 15px; vertical-align: middle; color: white; font-weight: 500;'\u003eSwitchboard Kiosk Monitoring\u003c/span\u003e\n\u003c/div\u003e",
+          "content": "\u003cdiv style='text-align: center; padding: 10px; background: #003865; border-radius: 8px;'\u003e\n  \u003cimg src='https://images.icon-icons.com/2699/PNG/512/grafana_logo_icon_171048.png' alt='Coates Group' style='height: 40px; vertical-align: middle;'\u003e\n  \u003cspan style='font-size: 24px; margin-left: 15px; vertical-align: middle; color: white; font-weight: 500;'\u003eSwitchboard Kiosk Monitoring\u003c/span\u003e\n\u003c/div\u003e",
           "mode": "markdown"
         },
         "pluginVersion": "12.3.0-18892154779",
